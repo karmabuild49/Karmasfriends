@@ -1,0 +1,24 @@
+# kArmas Friends Configuration
+# Edit this file to customize bot behavior.
+# Set "enabled": false to disable a bot if desired (framework supports it).
+
+theme: dark
+timeout: 15
+max_threads: 4
+
+bots:
+  hash_gen:
+    algorithms: ["md5", "sha256", "sha512"]
+  password_gen:
+    length: 20
+    special: true
+  username_check:
+    sites:
+      - github.com
+      - gitlab.com
+      - reddit.com
+
+  
+
+# Add more bot-specific configs as needed.
+# Bots fall back to their default_config if not specified.
