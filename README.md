@@ -232,10 +232,6 @@ Do not use for unauthorized access, scraping that violates ToS, or any malicious
 
 ---
 
-## License
-
-For personal / professional use by kArmas and authorized parties.
-
 ---
 
 **kArmas Friends** — Built strong. Stay sharp. World-class public tools.
