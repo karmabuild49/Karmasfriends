@@ -256,5 +256,11 @@ python main.py run email_domain_intel -p email_or_domain=user@company.com
 # or inside dashboard
 python main.py dashboard
 
+kArmas> list
+kArmas> run multi_hash text=kArmas
+kArmas> history
+kArmas> results
+kArmas> exit
+
 🎩 Made In L0v3 bY kArmasec
 
