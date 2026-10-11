@@ -241,26 +241,5 @@ For personal / professional use by kArmas and authorized parties.
 **kArmas Friends** — Built strong. Stay sharp. World-class public tools.
 
 
-python main.py run email_validate -p email=test@example.com
-
-python main.py run mx_lookup -p domain=gmail.com
-
-python main.py run spf_check -p domain=example.com
-
-python main.py run dmarc_check -p domain=example.com
-
-python main.py run disposable_email -p email=user@mailinator.com
-
-python main.py run email_domain_intel -p email_or_domain=user@company.com
-
-# or inside dashboard
-python main.py dashboard
-
-kArmas> list
-kArmas> run multi_hash text=kArmas
-kArmas> history
-kArmas> results
-kArmas> exit
-
 🎩 Made In L0v3 bY kArmasec
 
